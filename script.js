@@ -8,16 +8,16 @@ function toggleMode() {
   }*/
 
   // pegar a tag img
-  const img = document.querySelector("#profile img")
+   /*const img = document.querySelector("#profile img")
 
-  //substituir imagem
+ substituir imagem
   if(html.classList.contains('light')) {
     // se estiver light mode, adicionar a imagem light
     img.setAttribute('src', './assets/avatar-light.png')
   } else {
     // se estiver dark mode, manter a imagem padrão
     img.setAttribute('src', './assets/avatar.png')
-  }
+  }*/
 
   
 }
